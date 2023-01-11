@@ -30,6 +30,8 @@ Following is the features available in the dataset – Airline, Date_of_Journey,
 - Before that we have to update with sudo.Once the downlooad complete run the app.py file, it will start running.
 - Then go to ec2 instance and copy the generated url..for me it was (http://ec2-13-230-232-117.ap-northeast-1.compute.amazonaws.com:8080).
 
-(![Screenshot (6)](https://user-images.githubusercontent.com/103427929/211822044-60258031-e2ea-431d-ab00-db92f393bd06.png)
+using the above link I got the below page and I enter the values in it.. and its generate the price of the flight.
+
+![Screenshot (6)](https://user-images.githubusercontent.com/103427929/211822044-60258031-e2ea-431d-ab00-db92f393bd06.png)
 
 
