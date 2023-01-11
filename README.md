@@ -28,7 +28,7 @@ Following is the features available in the dataset – Airline, Date_of_Journey,
 - Next I uploaded all the requird files into 'winscp' server. It is used to connect the local server with ec2 instance.
 - After that I download all the required libraries on 'putty gen'.
 - Before that we have to update with sudo.Once the downlooad complete run the app.py file, it will start running.
-- Then go to ec2 instance and copy the generated url..for me it was [link:(http://ec2-13-230-232-117.ap-northeast-1.compute.amazonaws.com:8080)].
+- Then go to ec2 instance and copy the generated url..for me it was (http://ec2-13-230-232-117.ap-northeast-1.compute.amazonaws.com:8080).
 
 I have deploy my model on Aws Ec2 instance.
 
